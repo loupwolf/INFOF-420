@@ -288,7 +288,7 @@ class Point {
   var showSP = false;
   
   function setup() {
-    createCanvas(windowWidth, 200); // Make the canvas smaller to ensure buttons are visible
+    createCanvas(windowWidth, 600); // Make the canvas smaller to ensure buttons are visible
     fill("black");
     textSize(20);
   

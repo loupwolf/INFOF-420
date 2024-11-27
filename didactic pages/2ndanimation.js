@@ -534,7 +534,7 @@ var showSP = false;
 var buttons = []; // list of the buttons
 
 function setup() {
-  createCanvas(windowWidth, 200); // Make the canvas smaller to ensure buttons are visible
+  createCanvas(windowWidth, 600); // Make the canvas smaller to ensure buttons are visible
   fill("black");
   textSize(20);
 
